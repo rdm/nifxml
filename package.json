@@ -1,0 +1,22 @@
+{
+  "name": "nifxml",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdm/nifxml.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rdm/nifxml/issues"
+  },
+  "homepage": "https://github.com/rdm/nifxml#readme",
+  "description": "",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
